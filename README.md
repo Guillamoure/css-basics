@@ -54,6 +54,10 @@ ID Selector:
 
 ## The Box Model
 
+* What is the box model?
+
+
+
 4 Elements of the box model:
 * Content - The content of the box, where text and images appear
 * Padding - Clears an area around the content. The padding is transparent
