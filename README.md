@@ -26,7 +26,7 @@ How do we add CSS to our HTML page?
 * Internal
   - <style><style/>
 * External import external page
-  - <link rel="stylesheet" href="styles.css">
+  - < link rel="stylesheet" href="styles.css" >
 
 Colors?
 * Names "green"
@@ -177,4 +177,4 @@ Does a lot of the CSS work for us
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid Garden](http://cssgridgarden.com/)
 - DaFont.com
-- TypeSpire 
+- TypeSpire
