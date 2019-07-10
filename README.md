@@ -18,9 +18,12 @@
 ## Stylesheets and Selectors
 
 How do we add CSS to our HTML page?
-* Inline style="color: green"
-* Internal <style><style/>
+* Inline
+  - style="color: green"
+* Internal
+  - <style><style/>
 * External import external page
+  - <link rel="stylesheet" href="styles.css">
 
 Colors?
 * Names "green"
