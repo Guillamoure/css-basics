@@ -19,9 +19,15 @@
 ## Stylesheets and Selectors
 
 How do we add CSS to our HTML page?
-* Inline
-* Internal
-* External
+* Inline style="color: green"
+* Internal <style><style/>
+* External import external page
+
+Colors?
+* Names "green"
+* RGB rgb(0, 255, 0)
+* Hex Codes #00FF00
+
 
 Types of CSS selectors
 * HTML tags/elements
