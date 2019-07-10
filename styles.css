@@ -1,10 +1,104 @@
 /********************** SITE-WIDE STYLES **********************/
+body {
+  text-align: center;
+  background-color: pink;
+  cursor: arrow;
+}
 
+h1 {
+  color: #D016DF
+
+}
+
+#main-page-title {
+  color: teal;
+  text-align: center;
+   text-shadow: 2px 2px #fff;
+}
+
+.header {
+  background-image: url(./images/header_img.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#welcome {
+  text-shadow: 4px 2px yellow;
+}
 
 /************************* HOME PAGE **************************/
 
+/* button a{
+  background-color: red;
+  font-size: 12px;
+  text-decoration: none;
+  color: white;
+  border: teal dashed 5px;
+  font-family: monospace;
+} */
 
+.navbar a {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: blue;
+  border: teal solid 2px;
+  padding: 10px;
+  border-radius: 15.5px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+a:hover {
+  background-color: purple;
+}
 /************************** ARTICLE ***************************/
+.allofit {
+  background-color: pink;
+}
 
+.grand-canyon-image {
+  width: 400px;
+  float: left;
+  padding-right: 20px;
+}
 
+.article-body {
+  font-size: 30px;
+  text-align: justify;
+  padding-left: 4.9px;
+  padding-right: 4.5px;
+}
+
+.park-info {
+  clear: both;
+}
 /************************ IMAGE GALLERY ***********************/
+
+/* .image-gallery {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.gallery-img {
+  padding-top: 10px;
+  width: 300px;
+  height: 300px;
+} */
+.image-gallery {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+  grid-gap: 10px;
+  justify-items: center;
+}
+
+.gallery-img {
+  padding-top: 10px;
+  width: 300px;
+  height: 300px;
+  border: teal solid 2px;
+}

@@ -7,13 +7,16 @@
 * Understand how to use class, id, and element selectors, and selector order of importance
 * Demonstrate the use of the box model, floats, clear, positioning, flex box, CSS grid in page layout
 * Introduce CSS Frameworks like Bootstrap, Semantic UI, Materialize
+* Show Pesticide for Chrome
 
 
 ## CSS Basics
 
 * What is it?
+  sparkles also
+  Cascading Style Sheets
 * What Does it Do?
-
+  style the html makes things pretty and nice and sparkley rallzlmattazz lit
 
 ## Stylesheets and Selectors
 
@@ -58,7 +61,7 @@ ID Selector:
 
 * What is the box model?
 
-
+padding and margin borders
 
 
 
@@ -173,3 +176,5 @@ Does a lot of the CSS work for us
 - [CSS Zen Garden](http://www.csszengarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid Garden](http://cssgridgarden.com/)
+- DaFont.com
+- TypeSpire 
