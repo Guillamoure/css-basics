@@ -8,7 +8,6 @@
 * Demonstrate the use of the box model, floats, clear, positioning, flex box, CSS grid in page layout
 * Introduce CSS Frameworks like Bootstrap, Semantic UI, Materialize
 
-![](https://media.giphy.com/media/it6W8D4FfvaPC/giphy.gif)
 
 ## CSS Basics
 
@@ -32,7 +31,7 @@ Colors?
 Types of CSS selectors
 * HTML tags/elements
 * Classes
-* Ids
+* IDs
 
 ```
 Element Selector:
@@ -55,6 +54,9 @@ ID Selector:
 ## The Box Model
 
 * What is the box model?
+
+
+
 
 
 
@@ -119,7 +121,7 @@ Example makes 3x3 grid, where each column is divided into 3 fractional units and
 }
 ```
 
-`grid-template` is another way to generate your grid,and it combines both `grid-template-columns` and `grid-template-rows`
+`grid-template` is another way to generate your grid, and it combines both `grid-template-columns` and `grid-template-rows`
 
 You can also target specific elements within the grid and specify where there should start/end via:
 `grid-column-start`, `grid-column-end`, `grid-row-start`, `grid-row-end`, `grid-column`, `grid-row`, `grid-area`
