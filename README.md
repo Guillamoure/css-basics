@@ -177,4 +177,4 @@ Does a lot of the CSS work for us
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid Garden](http://cssgridgarden.com/)
 - [DaFont](http://DaFont.com/)
-- [Lost Type] (http://www.losttype.com/browse/)
+- [Lost Type](http://losttype.com/)
