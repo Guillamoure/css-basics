@@ -52,6 +52,15 @@ ID Selector:
 
 ```
 
+## Importing images
+ - local url
+ - from the world wide internet
+
+* background sizing
+  - contain
+  - cover
+  - auto 
+
 ## The Box Model
 
 * What is the box model?
