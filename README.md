@@ -176,5 +176,5 @@ Does a lot of the CSS work for us
 - [CSS Zen Garden](http://www.csszengarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [CSS Grid Garden](http://cssgridgarden.com/)
-- DaFont.com
-- TypeSpire
+- [DaFont](http://DaFont.com/)
+- [Lost Type] (http://www.losttype.com/browse/)
